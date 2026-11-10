@@ -1,0 +1,8 @@
+# Netlify deployment. The app uses hash routing, so no SPA rewrite rule is
+# needed — every URL resolves to index.html on its own.
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
