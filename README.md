@@ -264,11 +264,11 @@ Latest run on this machine: **145/145 unit tests and 58/58 end-to-end tests pass
 
 ## Team
 
-| Role | Name | Contribution |
-| --- | --- | --- |
-| Team member 1 | _your name_ | _e.g. canvas and tracing engine_ |
-| Team member 2 | _name_ | _e.g. accessibility and settings_ |
-| Team member 3 | _name_ | _e.g. progress, review and documentation_ |
+| Name | Contribution |
+| --- | --- |
+| Maharshi Desai | _fill in — e.g. writing canvas and tracing engine_ |
+| Mridul Bansal | _fill in — e.g. accessibility, settings and glyph data_ |
+| Krishna Srivastava | _fill in — e.g. progress, review and documentation_ |
 
 **Course:** Application Development · **Project type:** Major project · **Team size:** 3
 
